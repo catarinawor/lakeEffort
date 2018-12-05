@@ -1,0 +1,114 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# iSCAM output
+*.bar
+*.cov
+*.dep
+*.hes
+variance
+*.psv
+*.cor
+*.rep
+*.par
+*.std
+*.eva
+*.mcmc
+*.mcrt
+*.mcst
+*.sim
+*.proj
+*.ret*
+*.p[0-9]*
+*.r[0-9]*
+*.b[0-9]*
+variance
+
+# Latex Stuff
+*.aux
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.top
+*.toi
+*.d
+*.dvi
+*.fdb_latexmk
+*.blg
+*.cls
+*.fls
+
+invoice.*
+
+# R stuff
+*.Rhistory
+*.Rdata
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#random files#
+######################
+seed.txt
+*.pdf
+*.png
+
+data/
+documentation/
+JAGS/output
+
+*.txt
+
+MCMC*
+
+
